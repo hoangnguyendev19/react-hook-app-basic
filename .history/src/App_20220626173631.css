@@ -37,11 +37,6 @@
   }
 }
 
-ul.hobby-list {
-  transition: all 0.25s ease-in-out;
-  cursor: pointer;
-}
-
 ul.hobby-list > li.active {
   color: blue;
 }
